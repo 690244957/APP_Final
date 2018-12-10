@@ -37,6 +37,7 @@
 据一些高校统计，目前在大学课堂中约有七成的学生是用手机拍摄照片记录笔记，但是课后真正花时间将手机照片的笔记整理出来的人又少之又少，学生采访表示因为觉得这样的工作太费时间，而三成直接在课堂将笔记整理进自己笔记本的人却表示很多时候跟不上老师的节奏，所以当中有一部分也开始倾向于借助手机来帮助自己记录笔记，所以未来会有更多的学生借助电子设备辅助自己记录笔记。
 
 **竞品分析：**
+![image](http://a3.qpic.cn/psb?/a0d8c5d6-3f74-4ea7-99b7-6dead0eb8d9e/NFGShbJnC.L*qNtteCmoPGyygnR1c.KqfYhaOVkX9bM!/m/dLYAAAAAAAAAnull&bo=fgLtAQAAAAADB7I!&rf=photolist&t=5)
 
 
  
