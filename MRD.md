@@ -40,6 +40,8 @@
 
 ![image](https://690244957.github.io/APP_Final/%E5%9B%A2%E9%98%9F%E5%8D%8F%E4%BD%9C%E7%AC%94%E8%AE%B0%E7%B1%BBAPP.png)
 
+![image](https://690244957.github.io/APP_Final/%E7%AC%94%E8%AE%B0%E5%8A%A9%E6%89%8B.png)
+
 <table width="600" border="1">
   <tr>
     <td>竞品</td>
