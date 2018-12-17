@@ -37,6 +37,9 @@ Slogan:您的智能笔记助手
 **2.2 市场规模：**
 
 笔记类APP市场
+![image](https://690244957.github.io/APP_Final/%E7%AC%94%E8%AE%B0%E7%B1%BBAPP%E4%B8%A4%E5%A4%A7%E5%B7%A8%E5%A4%B4%E6%9C%88%E5%BA%A6%E7%8B%AC%E7%AB%8B%E8%AE%BE%E5%A4%87%E6%95%B0.png)
+在国内笔记APP市场中，印象笔记和有道云笔记的月度独立设备数量是最多的，且仍然呈现上升趋势，市场仍然在不断扩大。
+
 
 ![image](https://690244957.github.io/APP_Final/%E7%AC%94%E8%AE%B0APP%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.jpg)
 
