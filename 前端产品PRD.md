@@ -4,6 +4,9 @@
 
 [产品框架图](https://www.processon.com/view/link/5c14f07ce4b00a4d6238a924)
 
+![image](https://690244957.github.io/APP_Final/%E5%89%8D%E7%AB%AF%E7%94%.png)
+
+
 **编辑页功能图**
 
 ![image](https://690244957.github.io/APP_Final/%E7%BC%96%E8%BE%91%E9%A1%B5%E9%9D%A2%E5%8A%9F%E8%83%BD%E8%AF%A6%E8%A7%A3.png)
